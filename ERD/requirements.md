@@ -6,7 +6,7 @@ This document outlines the database structure for the Property Booking Platform 
 
 ## 🖼 Entity Relationship Diagram (ERD)
 
-![ERD](./ERD-AirBnB_Project.png)
+![ERD](./erd.png)
 
 
 ## 🧩 Entities and Attributes
